@@ -50,3 +50,5 @@ db.sales_order_detail.insert([
 {qtyorderd :1,qtydisp :0,productrate :1050},
 {qtyorderd :10,qtydisp :5,productrate :525}
 ])
+
+// load("tables.js")
